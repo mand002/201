@@ -1,0 +1,77 @@
+.tabheader {
+    text-align: right;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+    padding-right: 100px;
+    padding-top: 2px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 65px;
+    background-color: #555555;
+}
+
+.outsidelink {
+    text-align: left;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+    padding-left: 97px;
+    padding-top: 28px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 0px;
+    background-color: #555555;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+
+}
+
+.dashbg {
+    background-color: rgba(101, 130, 158, 0.829);
+}
+
+.mainbody {
+    padding: 50px;
+}
+
+.mainbottom {
+    padding-bottom: 50px;
+}
+
+.caption {
+    font-size: 20pt;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+    border: solid 1px black;
+}
+
+.box2 {
+    padding: 10px;
+}
+
+.anchor {
+    padding-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

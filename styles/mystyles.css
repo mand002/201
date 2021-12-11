@@ -1,0 +1,42 @@
+.abouttitles {
+    text-decoration: underline;
+    font-size: 19pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.resumebody {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.footer {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-top: 2px solid gray;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 11pt;
+}
+
+.home {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19pt;
+    text-align: center;
+    font-style: underline;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17pt;
+    color: gray;
+    text-align: center;
+}
